@@ -1,0 +1,11 @@
+E:\curso dotnet\revisao\bin\Debug\netcoreapp3.1\revisao.exe
+E:\curso dotnet\revisao\bin\Debug\netcoreapp3.1\revisao.deps.json
+E:\curso dotnet\revisao\bin\Debug\netcoreapp3.1\revisao.runtimeconfig.json
+E:\curso dotnet\revisao\bin\Debug\netcoreapp3.1\revisao.runtimeconfig.dev.json
+E:\curso dotnet\revisao\bin\Debug\netcoreapp3.1\revisao.dll
+E:\curso dotnet\revisao\bin\Debug\netcoreapp3.1\revisao.pdb
+E:\curso dotnet\revisao\obj\Debug\netcoreapp3.1\revisao.csprojAssemblyReference.cache
+E:\curso dotnet\revisao\obj\Debug\netcoreapp3.1\revisao.AssemblyInfoInputs.cache
+E:\curso dotnet\revisao\obj\Debug\netcoreapp3.1\revisao.AssemblyInfo.cs
+E:\curso dotnet\revisao\obj\Debug\netcoreapp3.1\revisao.dll
+E:\curso dotnet\revisao\obj\Debug\netcoreapp3.1\revisao.pdb

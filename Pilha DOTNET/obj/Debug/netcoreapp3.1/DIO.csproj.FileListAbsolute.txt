@@ -1,0 +1,22 @@
+E:\curso dotnet\DIO\bin\Debug\netcoreapp3.1\DIO.exe
+E:\curso dotnet\DIO\bin\Debug\netcoreapp3.1\DIO.deps.json
+E:\curso dotnet\DIO\bin\Debug\netcoreapp3.1\DIO.runtimeconfig.json
+E:\curso dotnet\DIO\bin\Debug\netcoreapp3.1\DIO.runtimeconfig.dev.json
+E:\curso dotnet\DIO\bin\Debug\netcoreapp3.1\DIO.dll
+E:\curso dotnet\DIO\bin\Debug\netcoreapp3.1\DIO.pdb
+E:\curso dotnet\DIO\obj\Debug\netcoreapp3.1\DIO.csprojAssemblyReference.cache
+E:\curso dotnet\DIO\obj\Debug\netcoreapp3.1\DIO.AssemblyInfoInputs.cache
+E:\curso dotnet\DIO\obj\Debug\netcoreapp3.1\DIO.AssemblyInfo.cs
+E:\curso dotnet\DIO\obj\Debug\netcoreapp3.1\DIO.dll
+E:\curso dotnet\DIO\obj\Debug\netcoreapp3.1\DIO.pdb
+E:\curso dotnet\DIO\Pilha .NET\bin\Debug\netcoreapp3.1\DIO.exe
+E:\curso dotnet\DIO\Pilha .NET\bin\Debug\netcoreapp3.1\DIO.deps.json
+E:\curso dotnet\DIO\Pilha .NET\bin\Debug\netcoreapp3.1\DIO.runtimeconfig.json
+E:\curso dotnet\DIO\Pilha .NET\bin\Debug\netcoreapp3.1\DIO.runtimeconfig.dev.json
+E:\curso dotnet\DIO\Pilha .NET\bin\Debug\netcoreapp3.1\DIO.dll
+E:\curso dotnet\DIO\Pilha .NET\bin\Debug\netcoreapp3.1\DIO.pdb
+E:\curso dotnet\DIO\Pilha .NET\obj\Debug\netcoreapp3.1\DIO.csprojAssemblyReference.cache
+E:\curso dotnet\DIO\Pilha .NET\obj\Debug\netcoreapp3.1\DIO.AssemblyInfoInputs.cache
+E:\curso dotnet\DIO\Pilha .NET\obj\Debug\netcoreapp3.1\DIO.AssemblyInfo.cs
+E:\curso dotnet\DIO\Pilha .NET\obj\Debug\netcoreapp3.1\DIO.dll
+E:\curso dotnet\DIO\Pilha .NET\obj\Debug\netcoreapp3.1\DIO.pdb
